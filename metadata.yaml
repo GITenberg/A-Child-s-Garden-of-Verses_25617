@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25617#A-Child-s-Garden-of-Verses
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2008-05-27'
 gutenberg_type: Text
